@@ -1,7 +1,7 @@
 # Introduktion till Markdown
 ## Hemläxa, den första inlämningsuppgiften
 I denna läxa har vi fått uppgift att fylla i eller skapa en ny fil i vilket vi lär känna Markdown samt testa på commit och push commit till:  
-<a href= "https.//GitHub.com">GitHub</a>,  
+<a href= "GitHub.com">GitHub</a>,  
 för att befästa den presentation för dessa grundpelare inom vårt framtida yrke.  
 
 I filen ska vi också skriva lite om oss själva, så nedan kommer  jag beskriva mitt arbetsflöde samtidigt som jag väver in info om mig själv.
