@@ -1,8 +1,10 @@
 # Introduktion till Markdown
 ## Hemläxa, den första inlämningsuppgiften
 I denna läxa har vi fått uppgift att fylla i eller skapa en ny fil i vilket vi lär känna Markdown samt testa på commit och push commit till:  
-<a href= "GitHub.com">GitHub</a>,  
+<a href= "GitHub.com">GitHub</a>,*  
 för att befästa den presentation för dessa grundpelare inom vårt framtida yrke.  
+
+*(När jag försöker öppna ovanstående länk till Github.com så funkar den inte när jag är på github i readmefilen. Lyckas inte med att fixa den. De andra hyperlänkarna funkar som de ska.)
 
 I filen ska vi också skriva lite om oss själva, så nedan kommer  jag beskriva mitt arbetsflöde samtidigt som jag väver in info om mig själv.
 ### Frågeställningar och efterforskningar
@@ -19,4 +21,4 @@ Det jag kan säga är att jag har gått teater, jag har skrivit manus, jag tycke
 ### Slutord
 * [x] Jag ser väldigt mycket fram emot denna utbildning  
 * [x] Jag är glatt överraskad att du tänker inkludera JavaScript mm. på fredagar!
-* [ ] Tyvärr kommer jag inte byta min bild till en katt 
+* [ ] Jag har fått kursens första bug! Som jag inte lyckades lösa
